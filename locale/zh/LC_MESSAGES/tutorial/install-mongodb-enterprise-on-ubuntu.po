@@ -32,61 +32,61 @@ msgstr ""
 msgid ""
 "Use this tutorial to install MongoDB Enterprise on Ubuntu Linux systems. The"
 " tutorial uses ``.deb`` packages to install."
-msgstr ""
+msgstr "使用本教程安装MongoDB企业版到Ubuntu Linux系统"
 
 # 3fa8cc2cae8c4ca3a6700831a5f416e0
 #: ../source/includes/list-mongodb-enterprise-packages.rst:2
 msgid "Packages"
-msgstr ""
+msgstr "安装包"
 
 # ce8414bed8fd450ab4bd0b3df68278d9
 #: ../source/includes/list-mongodb-enterprise-packages.rst:8
 msgid "``mongodb-enterprise``"
-msgstr ""
+msgstr "``mongodb-enterprise``"
 
 # 4c92209af24b4b12a39bca5a70a01c7d
 #: ../source/includes/list-mongodb-enterprise-packages.rst:10
 msgid ""
 "This package is a ``metapackage`` that will automatically install the four "
 "component packages listed below."
-msgstr ""
+msgstr "这个安装包是一个 ``metapackage`` 将自动安装下面列举的四个组件包"
 
 # de14f126328344f988ceb2e5ceff67b9
 #: ../source/includes/list-mongodb-enterprise-packages.rst:13
 msgid "``mongodb-enterprise-server``"
-msgstr ""
+msgstr "``mongodb-enterprise-server``"
 
 # 1da75a4c0e184cb895349bcb2082769c
 #: ../source/includes/list-mongodb-enterprise-packages.rst:15
 msgid ""
 "This package contains the :program:`mongod` daemon and associated "
 "configuration and init scripts."
-msgstr ""
+msgstr "该包包含了`mongod`守护进程的程序和相关配置以及初始化脚本"
 
 # 608eddcf011a4b72bf1817af9c3de983
 #: ../source/includes/list-mongodb-enterprise-packages.rst:18
 msgid "``mongodb-enterprise-mongos``"
-msgstr ""
+msgstr "``mongodb-enterprise-mongos``"
 
 # 1f3e288f98d04b2fbb1ace040062ba09
 #: ../source/includes/list-mongodb-enterprise-packages.rst:20
 msgid "This package contains the :program:`mongos` daemon."
-msgstr ""
+msgstr "该包包含 `mongos`守护进程的程序"
 
 # ddac8786cea14375991de07ce8241578
 #: ../source/includes/list-mongodb-enterprise-packages.rst:22
 msgid "``mongodb-enterprise-shell``"
-msgstr ""
+msgstr "``mongodb-enterprise-shell``"
 
 # 767752d17d1c459b98783ee449b947f5
 #: ../source/includes/list-mongodb-enterprise-packages.rst:24
 msgid "This package contains the :program:`mongo` shell."
-msgstr ""
+msgstr "该包包含 `mongo`shell的程序"
 
 # 72232f9edbf94b3f9ccabfa81e8484ac
 #: ../source/includes/list-mongodb-enterprise-packages.rst:26
 msgid "``mongodb-enterprise-tools``"
-msgstr ""
+msgstr "``mongodb-enterprise-tools``"
 
 # ade09773f6664923b55c3f02c7424225
 #: ../source/includes/list-mongodb-enterprise-packages.rst:28
@@ -347,7 +347,7 @@ msgstr ""
 #~ msgid ""
 #~ "You can follow the state of the process for errors or important messages by "
 #~ "watching the output in the ``/var/log/mongo/mongod.log`` file."
-#~ msgstr ""
+#~ msgstr "你可以跟随进程的错误或者重要消息的状态，通过查看``/var/log/mongo/mongod.log``文件中输出的内容"
 
 #~ msgid "To begin using MongoDB, see :doc:`/tutorial/getting-started`."
-#~ msgstr ""
+#~ msgstr "想开始使用MongoDB,查看:doc:`/tutorial/getting-started`。"
